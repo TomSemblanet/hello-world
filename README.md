@@ -1,3 +1,3 @@
 # hello-world
-This repository will help me to understand how GitHub works !
+This repository will help me to understand how GitHub works !\n
 Indeed, I actually do not know much about GitHub but this tool appears to be very usefull !
